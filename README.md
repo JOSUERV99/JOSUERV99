@@ -1,3 +1,4 @@
+<span align="center">
 <h1 align="center">Hi 👋, I'm Josue Rojas Vega</h1>
 <h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
 
@@ -31,3 +32,4 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
   </a>
 </p>
+</span>
