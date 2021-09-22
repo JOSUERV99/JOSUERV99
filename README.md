@@ -24,6 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&layout=compact" alt="josuerv99" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p>
+
+<br>
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/josuerv99">
