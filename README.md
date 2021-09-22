@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Josue Rojas Vega</h1>
 <h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=josuerv99&label=Profile%20views&color=0e75b6&style=flat" alt="josuerv99" /> </p>
-
   <ul>
     <li>🔭 I’m currently working on **CloudPay**</li>
     <li>🌱 I’m currently learning **Spring**</li>
@@ -23,9 +21,9 @@
 <br>
 <p></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&layout=compact" alt="josuerv99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&layout=compact" alt="josuerv99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p>
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/josuerv99">
