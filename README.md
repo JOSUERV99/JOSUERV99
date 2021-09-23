@@ -1,5 +1,5 @@
 
-  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/wtmp.png?raw=true)
+  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome_pr.jpg?raw=true)
 
 <span align="center">
 <h1 align="center">Hello world 👋, I'm Josue Rojas Vega</h1>
