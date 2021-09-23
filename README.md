@@ -1,5 +1,5 @@
 
-  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome_pr.jpg?raw=true)
+  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
 
 <hr>
 <span align="center">
