@@ -1,4 +1,8 @@
 <span align="center">
+  ![alt text](https://github.com/JOSUERV99/JOSUERV99/blob/main/wtmp.png?raw=true)
+</span>
+
+<span align="center">
 <h1 align="center">Hello world 👋, I'm Josue Rojas Vega</h1>
 <h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
 
