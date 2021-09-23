@@ -1,5 +1,5 @@
 <span align="center">
-<h1 align="center">Hi 👋, I'm Josue Rojas Vega</h1>
+<h1 align="center">Hello world 👋, I'm Josue Rojas Vega</h1>
 <h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
 
   <ul>
@@ -65,9 +65,6 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=josuerv99&hide=java&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_color=1A2B34" />
   </a>
 
-  <a href="https://github.com/josuerv99">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=josuerv99&hide=prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_color=1A2B34" alt="Josue's GitHub Stats" />
-  </a>
 
 <br>
 
