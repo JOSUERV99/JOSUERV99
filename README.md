@@ -66,7 +66,7 @@
 <div>
   <h3 align="center">Stats:</h3>
 <p>
-      <a width="50%" align="left"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>
+      <a width="50%" align="left"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter_notebook,glsl,jupyter-notebook" alt="josuerv99" /></p></a>
       <a width="50%" align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
 </p>
 </div>
