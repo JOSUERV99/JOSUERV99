@@ -1,8 +1,8 @@
 
   ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome_pr.jpg?raw=true)
 
+<hr>
 <span align="center">
-<h1 align="center">Hello world 👋, I'm Josue Rojas Vega</h1>
 <h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
 
   <ul>
@@ -10,14 +10,14 @@
     <li>🌱 I’m currently learning <strong>Spring</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com<strong></li>
   </ul>
-    
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
 <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
 <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
@@ -50,6 +50,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
+      <hr>
 <div >
   <h3 align="center">Support:</h3>
   <p>
@@ -60,6 +61,7 @@
   <span>
   </div>
 <br>
+  <hr>
 <div>
   <h3 align="center">Stats:</h3>
 <p>
