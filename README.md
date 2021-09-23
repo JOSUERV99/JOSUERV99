@@ -3,6 +3,7 @@
 
 <hr>
 <span align="center">
+  <h4 align="center">Forever apprentice</h4>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
   <ul>
