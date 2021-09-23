@@ -67,6 +67,8 @@
 <p>
       <a width="50%" align="left"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>
       <a width="50%" align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSUERV99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </div>
 
