@@ -7,8 +7,8 @@
 
   <ul>
     <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com<strong></li>
+    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
+    <li>📫 How to reach me <strong>josuerojasvega@gmail.com<strong>,<strong>josuerojasvega@estudiantec.cr<strong>,<strong>josue.rojasvega@ucr.ac.cr<strong> or <strong>josue.rojas@cloudpay.net<strong></li>
   </ul>
 <hr>
 <h3 align="center">Connect with me:</h3>
