@@ -52,11 +52,11 @@
       <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
       </p>
       <h1></h1>
-<span align="center">
-<h3 align="center">Support:</h3>
+<span align="down">
+<h3 align="down">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/josuerv99">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+    <img align="down" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
   </a>
 </p>
 <span>
