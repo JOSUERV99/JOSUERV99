@@ -4,8 +4,7 @@
 <hr>
 <span align="center">
   <span>
-  <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"</h4>
-    <span align="center">Alejandro Taboada Sanchez</span>
+  <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>" <span align="center">Alejandro Taboada Sanchez</span></h4>
   </span>
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
