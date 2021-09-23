@@ -45,28 +45,12 @@
     <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
     <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
-  
-</p>
-      
-      
-      
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>  
 <br>
 <br>
-      
-      
-<p></p>
-
-      <a align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>
-      <a align="center"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
-<!--   <a href="https://github.com/josuerv99">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=josuerv99&hide=java&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_color=1A2B34" />
-  </a> -->
-      
-      
-<!--   <a href="https://github.com/josuerv99">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=josuerv99&hide=prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_color=1A2B34" alt="Josue's GitHub Stats" />
-  </a> -->
+      <a align="left"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>
+      <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
 <br>
 <h3 align="center">Support:</h3>
 <p>
