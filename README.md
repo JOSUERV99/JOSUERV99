@@ -61,12 +61,12 @@
 
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p>
   
-  <a href="https://github.com/JOSUERV99">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=JOSUERV99&hide=java&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_color=1A2B34" />
+  <a href="https://github.com/josuerv99">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=josuerv99&hide=java&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_color=1A2B34" />
   </a>
 
-  <a href="https://github.com/JOSUERV99">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=JOSUERV99&hide=prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_color=1A2B34" alt="Martin's GitHub Stats" />
+  <a href="https://github.com/josuerv99">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=josuerv99&hide=prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_color=1A2B34" alt="Martin's GitHub Stats" />
   </a>
 
 <br>
