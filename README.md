@@ -3,7 +3,11 @@
 
 <hr>
 <span align="center">
-  <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>" Alejandro Taboada Sanchez. </h4>
+  <span>
+  <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"</h4>
+    <small>Alejandro Taboada Sanchez</small>
+  </span>
+<hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
   <ul>
