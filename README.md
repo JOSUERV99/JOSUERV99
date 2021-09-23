@@ -3,7 +3,7 @@
 
 <hr>
 <span align="center">
-<h3 align="center">A passionate, self-taught and university student of computer science, who loves to code and create things, solve problems and take on challenges</h3>
+<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
   <ul>
     <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
