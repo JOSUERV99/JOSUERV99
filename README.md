@@ -76,6 +76,7 @@
    
 <!-- GITHUB STATS -->
 <hr>
+<div>
 <p>
   <h3 align="center">Stats:</h3>
 <p>
@@ -85,6 +86,7 @@
     <a width="50%" align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
   </p>
 </p>
+</div>
 
 <hr>
 -----
