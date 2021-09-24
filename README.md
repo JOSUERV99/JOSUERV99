@@ -86,6 +86,7 @@
   </p>
 </p>
 
+<hr>
 -----
 Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
 
