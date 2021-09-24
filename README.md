@@ -88,18 +88,3 @@
 </p>
 </div>
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
------
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
-
-Last Edited on: 23/09/2021
