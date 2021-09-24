@@ -87,8 +87,11 @@
   </p>
 </p>
 </div>
-
 <hr>
+<br>
+<br>
+<br>
+
 -----
 Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
 
