@@ -76,7 +76,7 @@
    
 <!-- GITHUB STATS -->
 <hr>
-<div>
+<div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
 <p>
