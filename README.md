@@ -76,7 +76,7 @@
    
 <!-- GITHUB STATS -->
 <hr>
-<div style="display: block;">
+<!-- <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
 <p>
@@ -86,4 +86,9 @@
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
   </p>
 </p>
-</div>
+</div> -->
+  
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuerv99&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
