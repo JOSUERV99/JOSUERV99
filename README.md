@@ -16,7 +16,7 @@
   <ul style="list-style: none;">
     <li>👨‍🎓 I’m currently studying <strong>Computer Engineering</strong> in <a href="https://www.tec.ac.cr/en/carreras/bachelors-degree-computer-engineering">TEC</a> </li>
     <li>🔭 I’m currently working with <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
+    <li>🌱 I’m currently learning <strong>Spring Boot,Groovy,Boomi,...</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com<strong></li>
   </ul>
 
