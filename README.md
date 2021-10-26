@@ -12,9 +12,9 @@
   
 <!-- GREETING -->
 <hr>
-  <div class="tip" markdown="1">Have **fun!**</div>
+  <span style="display:block" class="note">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-  </div>
+  </span>
 <!-- ABOUT YOU -->
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
