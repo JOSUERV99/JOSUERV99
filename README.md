@@ -12,7 +12,7 @@
   
 <!-- GREETING -->
 <hr>
-  <div>
+  <div class="tip" markdown="1">Have **fun!**</div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   </div>
 <!-- ABOUT YOU -->
