@@ -1,5 +1,6 @@
-
-  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+ 
+![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -9,12 +10,7 @@
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
 </span>
-  
-<!-- GREETING -->
-<hr>
-  <span style="display:block" class="note">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-  </span>
+ 
 <!-- ABOUT YOU -->
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
