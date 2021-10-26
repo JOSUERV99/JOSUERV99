@@ -70,7 +70,7 @@
   <h3 align="center">Trophies:</h3>
 <p>
 <p align="center" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=darkhub&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
 </p>
 
 <!-- SUPPORT -->
