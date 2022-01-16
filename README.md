@@ -7,7 +7,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+      <span align="center">Alejandro Taboada Sanchez (1996-2019)</span>
     </h4>
 </span>
  
