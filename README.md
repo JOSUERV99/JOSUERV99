@@ -111,5 +111,5 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
 <p>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=nightowl&hide_border=true" width="48%" alt="My Streak"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="My Streak"/></a>
 </p>
