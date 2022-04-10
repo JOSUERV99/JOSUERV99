@@ -77,7 +77,7 @@
   <h3 align="center">Trophies:</h3>
 <p>
 <p align="center" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=darkhub&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=dark_lover&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
 </p>
 
 <!-- SUPPORT -->
@@ -109,7 +109,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuerv99&langs_count=10&theme=tokyonight&hide=jupyter%20notebook,lex&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
 <p>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=nightowl&hide_border=true" width="48%" alt="My Streak"/></a>
 </p>
