@@ -1,6 +1,6 @@
 
 
-![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
+![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2022.jpg?raw=true)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
