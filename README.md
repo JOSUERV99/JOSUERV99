@@ -1,6 +1,8 @@
 
 
-![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2022.png?raw=true)
+<p align="center">
+  <img width="900" height="550" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2022.png?raw=true">
+</p>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
