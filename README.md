@@ -79,17 +79,6 @@
 <p align="center" >
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=dark_lover&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
 </p>
-
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
-  </p>
-</p>
    
 <!-- GITHUB STATS -->
 <hr>
