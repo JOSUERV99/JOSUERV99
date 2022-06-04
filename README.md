@@ -92,11 +92,11 @@
 </p>
 </div> -->
 <hr>
-<h3 align="center">Top langs :tongue:</h3>
+<h3 align="center">Top langs:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuerv99&langs_count=10&theme=chartreuse-dark&hide=jupyter%20notebook,lex&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <hr>
-<h3 align="center">Profile stats :musical_keyboard:</h3>
+<h3 align="center">Profile stats:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
 <p>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="My Streak"/></a>
