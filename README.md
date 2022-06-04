@@ -104,4 +104,3 @@
 <p>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="My Streak"/></a>
 </p>
-<hr>
