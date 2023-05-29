@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img width="600" height="500" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/craiyon_000731_hacker_at_computer_at_night__lights_and_music_vibration.png?raw=true">
-</p>
-
 <hr>
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
