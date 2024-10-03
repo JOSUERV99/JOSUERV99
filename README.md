@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="550" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2023_.png?raw=true">
+<!--   <img width="1000" height="550" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2023_.png?raw=true"> -->
 </p>
 <hr>
 <!-- MAIN PHRASE SECTION -->
