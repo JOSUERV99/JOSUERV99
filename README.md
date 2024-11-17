@@ -13,17 +13,17 @@
 </span>
 
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul style="list-style: none;">
     <li>🔭 I’m currently working with <a href="https://www.cloudpay.com/"><strong>CloudPay</strong></a></li>
-    <li>🌱 I’m currently learning <strong>Vue.js,Node.js,AWS,Kubernetes</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@proton.me<strong></li>
+    <li> Sre more in <a href="https://josuerojasvega.com" target="blank">JOSUEROJASVEGA.COM</a></li>
+   
   </ul>
 
 <!-- CONNECTION --> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://josuerojasvega.com" target="blank">JOSUEROJASVEGA.COM</a>
+  
 <br>
   <br>
   <a href="https://www.linkedin.com/in/josuerv99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
