@@ -70,33 +70,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
 
-<!-- AWARD -->
-<hr>
-<h3 align="center">Trophies:</h3>
-<p align="center" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JOSUERV99&theme=dark_lover&column=7&no-frame=true&margin-w=15&margin-h=15" alt="My Stats"/></a>
-</p>
-   
-<!-- GITHUB STATS -->
-<!-- <div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8&layout=compact" alt="josuerv99" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
-  </p>
-
-</p>
-</div> -->
-<hr>
-<h3 align="center">Top langs:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuerv99&langs_count=10&theme=chartreuse-dark&hide=jupyter%20notebook,lex&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
 <hr>
 <h3 align="center">Profile stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JOSUERV99&show_icons=true&theme=chartreuse-dark" alt="JOSUERV99 :: Profile Stats" /></p>
 <p>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="My Streak"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="JOSUERV99 :: My Streak"/></a>
 </p>
