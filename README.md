@@ -1,16 +1,19 @@
 <!-- MAIN PHRASE SECTION -->
-<span align="center">
-  <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez (1996-2019)</span>
-    </h4>
-</span>
+
  
 <!-- ABOUT YOU -->
 <hr>  
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2310E91F&size=28&center=true&width=470&height=50&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Greeting">
   </p>
+  <br>
+  <span align="center">
+  <span>
+    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+      <span align="center">Alejandro Taboada Sanchez (1996-2019)</span>
+    </h4>
+</span>
+
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul style="list-style: none;">
