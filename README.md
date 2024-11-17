@@ -1,7 +1,3 @@
-<p align="center">
-<!--   <img width="1000" height="550" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2023_.png?raw=true"> -->
-</p>
-<hr>
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
@@ -23,8 +19,7 @@
     <li>📫 How to reach me <strong>josuerojasvega@proton.me<strong></li>
   </ul>
 
-<!-- CONNECTION -->
-<hr>      
+<!-- CONNECTION --> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://josuerojasvega.com" target="blank">JOSUEROJASVEGA.COM</a>
@@ -69,10 +64,3 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
-
-<hr>
-<h3 align="center">Profile stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JOSUERV99&show_icons=true&theme=chartreuse-dark" alt="JOSUERV99 :: Profile Stats" /></p>
-<p>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JOSUERV99&theme=chartreuse-dark&hide_border=true" width="48%" alt="JOSUERV99 :: My Streak"/></a>
-</p>
