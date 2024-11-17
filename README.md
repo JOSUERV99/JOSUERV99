@@ -1,12 +1,10 @@
 <!-- MAIN PHRASE SECTION -->
 
  
-<!-- ABOUT YOU -->
-<hr>  
+<!-- ABOUT YOU --> 
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2310E91F&size=28&center=true&width=470&height=50&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Greeting">
   </p>
-  <br>
   <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
